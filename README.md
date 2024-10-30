@@ -1,5 +1,5 @@
 # file_loader
-Automação de criação de Scripts com Eclipse IDE
+Automação de Scripts com Eclipse IDE
 
 Visando aumentar a produtivdade em um ambiente acadêmico, o file_loader atua como uma ferramenta com a função de automatizar a criação de Scripts e também possibilita o usuário a executar seu próprio código através dele.
 
