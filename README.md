@@ -18,7 +18,7 @@ Por padrão, o pacote sempre será "file_loader".
 
 # Criar arquivos
 Ao criar um arquivo, o programa solicitará a quantidade de arquivos a serem criados (Ex.: 5, 10, 50, 100...). Cada arquivo gerado, terá um ID numérico atribuído ao seu nome, começando de 1 até a quantidade de arquivos requisitada pelo usuário.
-A seguir, o usuário poderá definir se irá criar predefinições de classes ou não, caso opte criar, deverá informar apenas os nomes das classes que deseja e os arquivos dos quais deseja aplicar as predefinições.
+A seguir, o usuário poderá definir se irá criar predefinições de classes ou não, caso opte criar, deverá informar apenas os nomes das classes (da base JAVA) que deseja e os arquivos dos quais deseja aplicar as predefinições.
 
 Exemplo: Scanner, IOException -> 1,2,3 (Irá aplicar as classes Scanner e IOException para arquivos 1,2,3).
 É possível indicar quaisquer IDs (desde que estejam dentro do limite fornecido pelo usuário), ou seja: 1,2,10; 3,7,4...
