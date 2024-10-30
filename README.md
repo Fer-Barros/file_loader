@@ -23,8 +23,8 @@ A seguir, o usuário poderá definir se irá criar predefinições de classes ou
 Exemplo: Scanner, IOException -> 1,2,3 (Irá aplicar as classes Scanner e IOException para arquivos 1,2,3).
 É possível indicar quaisquer IDs (desde que estejam dentro do limite fornecido pelo usuário), ou seja: 1,2,10; 3,7,4...
 
-Após a criação da predefinição, o programa irá retornar indefinidamente para a mesma solicitação (caso o usuário queira definir mais predefinições).
-Caso opte por não criar mais predefinições, o file_loader irá então criar os arquivos de acordo com as solicitações do usuário, dentro do caminho especificado.
+Após a criação da predefinição, o programa irá retornar indefinidamente para a mesma solicitação (caso o usuário queira criar mais predefinições).
+Caso opte por não criar mais predefinições, o file_loader irá criar os arquivos de acordo com as solicitações do usuário dentro do caminho especificado (padrão: src/seu_pacote).
 
 
 # Executar arquivos
